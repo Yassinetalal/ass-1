@@ -535,3 +535,9 @@ def intersection(l1,l2):
 print(intersection(l1,l2))
 ```
 3. [Union de listes](ex4.3)
+```
+l1=[2,5,8,12,14,3]
+l2=[3,1,-1]
+l3 = l1 + l2
+print(l3)
+```
