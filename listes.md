@@ -517,9 +517,10 @@ def posmax(l):
             m =e
             k=i
     return m,k
+print("Max est ", posmax(l))
 ```
    
-print("Max est ", posmax(l))
+
 1. [Argmax](ex4.1)
 2. [Intersection de listes](ex4.2)
 3. [Union de listes](ex4.3)
